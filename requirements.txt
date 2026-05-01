@@ -1,0 +1,13 @@
+```
+numpy
+pandas
+matplotlib
+seaborn
+gensim
+scipy
+nltk
+wordcloud
+gurobipy
+streamlit
+networkx
+```
