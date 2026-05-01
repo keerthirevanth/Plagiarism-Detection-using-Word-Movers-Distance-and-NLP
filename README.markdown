@@ -106,4 +106,4 @@ The project relies on the following Python packages (listed in `requirements.txt
 - **Gurobi**: WMD is computed using Gurobi's optimization solver. Ensure you have a valid license to avoid errors.
 - **Performance**: For large texts or multiple files, computation may take longer due to WMD's complexity. Consider using smaller texts for faster results.
 
-Happy analyzing! 📝✨
+
